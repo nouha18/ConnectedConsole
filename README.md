@@ -1,4 +1,4 @@
-# boxCode
+# ConnectedConsole
 Connected Console used by developers who wants to connect to Chrome devtools via React Terminal Component.
 
  <Terminal
