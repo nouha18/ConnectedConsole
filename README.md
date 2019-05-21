@@ -14,7 +14,7 @@ This project is easy to use.
 Project is created with:
 * React version: 16.8.6
 * Node version: 6.5.0
-* Ament library version: 999
+
 	
 ## Setup
 To run this project, install it locally using npm:
